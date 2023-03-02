@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Pranjal Chaudhari
 
 <!--
 **pranjalpc99/pranjalpc99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🚀 Software Developer (Android, iOS)
+- ☝️ Open to Remote/Relocate
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/pranjalpchaudhari/)
+
